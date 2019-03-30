@@ -1,0 +1,35 @@
+{
+  "UserConfigs": [
+    {
+      "PcUsername": "REIMU",
+      "GameType": "Steam",
+      "GamePath": "G:\\Games\\SteamLibrary\\SteamApps\\Common\\VRChat"
+    },
+    {
+      "PcUsername": "REIMU",
+      "GameType": "Oculus",
+      "GamePath": "G:\\Oculus\\Software\\Software\\vrchat-vrchat"
+    }
+  ],
+  "RequiredLibraries": [
+    "Assembly-CSharp.dll",
+    "Photon3Unity3D.dll",
+    "UnityEngine.dll",
+    "UnityEngine.CoreModule.dll",
+    "Newtonsoft.Json.dll",
+    "VRCCore-Standalone.dll",
+    "UnityEngine.ImageConversionModule.dll",
+    "UnityEngine.IMGUIModule.dll",
+    "UnityEngine.TextRenderingModule.dll",
+    "VRCSDK2.dll",
+    "UnityEngine.AnimationModule.dll",
+    "UnityEngine.AudioModule.dll",
+    "UnityEngine.ClothModule.dll",
+    "UnityEngine.ParticleSystemModule.dll",
+    "UnityEngine.PhysicsModule.dll",
+    "UnityEngine.UI.dll",
+    "UnityEngine.Analytics.dll",
+    "UnityEngine.UnityAnalyticsModule.dll",
+    "Assembly-CSharp-firstpass.dll"
+  ]
+}
